@@ -10,7 +10,9 @@ permalink: "/contribute/Style-and-Tone"
 
 While contributing to Jamulus or the website, you should also keep style and tone in mind. Have a look at the following guidelines.
 
-These guidelines apply to every contribution, including work drafted with AI assistance. The `AGENTS.md` file in the website repository points automated contributors here rather than repeating them, so this page stays the single source of truth.
+These guidelines apply to every contribution, including work drafted with AI assistance.
+
+Note: The `AGENTS.md` file in the website repository points automated contributors here, so this page stays the single source of truth.
 
 **Note:** It is very important to thoroughly proofread content before submitting it, as any corrections made later have a knock-on effect on translations.
 
