@@ -14,6 +14,8 @@ These guidelines apply to every contribution, including work drafted with AI ass
 
 Note: The `AGENTS.md` file in the website repository points automated contributors here, so this page stays the single source of truth.
 
+As in the [Jamulus repository](https://github.com/jamulussoftware/jamulus/blob/main/CONTRIBUTING.md#ownership), the person who submits a change is its author and owner: understand and stand behind every line, and answer the questions reviewers direct at you. Disclose AI-generated text at the end of a pull request description or comment, for example `> 🤖 Used AI: <model>, <harness>`.
+
 **Note:** It is very important to thoroughly proofread content before submitting it, as any corrections made later have a knock-on effect on translations.
 
 <details markdown="1">
