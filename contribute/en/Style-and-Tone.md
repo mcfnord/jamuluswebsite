@@ -109,7 +109,7 @@ Jamulus is "Free and Open Source (FOSS)" (not "free software" or "open source")
 
 ## Punctuation
 
-Content here is written for people, but parts of it are read by tools as well. Keep the two apart.
+Content here is written for people, and some of it gets pasted into tools: commands, paths, configuration. Punctuation that reads fine on the page can break once pasted.
 
 Inside anything a reader will copy or a tool will parse - code spans and fenced blocks, command-line flags, URLs, file paths, YAML frontmatter, HTML attributes, dates and version strings - use plain ASCII `-`, `'` and `"` only. A curly quote or a long dash pasted into a shell command, a config file or a search box is not the character the tool expects, and it fails in ways the reader cannot see. Word processors and AI writing tools insert those characters automatically, so check your work before submitting.
 
