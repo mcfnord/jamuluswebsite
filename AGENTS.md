@@ -20,5 +20,6 @@ This is documentation, not code. The bar is: **is this better than what is there
 
 ## Submitting
 
-- Branch: `next-release` unless you have a reason. `release` is the live site and publishes immediately; `next-release` waits for the next release cutover. Anything under `wiki/` must go to `next-release` - it is the only tree that gets translated, and it has to wait for the translation sprint. Blog posts under `_posts/` and urgent build fixes go to `release`.
+- Branch: `next-release` unless you have a reason. `release` is the live site and publishes immediately; `next-release` waits for the next release cutover. Anything under `wiki/en/` must go to `next-release` - it is the only tree that gets translated, and it has to wait for the translation sprint. Submit English only; the other languages are produced from it by translators. Blog posts under `_posts/` and urgent build fixes go to `release`.
 - Fill out the PR template checklist.
+- Disclose AI-generated text at the end of the PR description and of comments (e.g. `> 🤖 Used AI: <model>, <harness>`). The person submitting remains the author and answers for every line.
