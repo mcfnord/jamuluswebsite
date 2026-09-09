@@ -32,7 +32,7 @@ As in the [Jamulus repository](https://github.com/jamulussoftware/jamulus/blob/m
 ### Keep it concise and specific.
  {:.no_toc}
 
-Avoid long-winded phrases and overly stylised language. Start simple, expand to details later, if at all ("inverted pyramid" style).
+Avoid long-winded phrases and overly stylised language. Start simple, expand to details later, if at all.
 
 ### Be direct, but not demanding.
  {:.no_toc}
@@ -65,9 +65,6 @@ Resist the temptation to say why something happens before offering a solution fo
 Informal English is preferred (e.g. "haven’t" not "have not". "Try to" not "Please attempt to").
 
 Try not to sound like a robot. Write conversationally, as if you were talking to a person.
-
-
-
 
 ## Capitalisation and references
 
