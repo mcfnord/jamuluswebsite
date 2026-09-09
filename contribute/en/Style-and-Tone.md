@@ -47,7 +47,7 @@ Jamulus has users of varying skill levels ranging from complete beginner to audi
 ### Avoid using slang and euphemisms.
  {:.no_toc}
 
-Jamulus is used around the world and translated in five languages (possibly more!). Use plain english to provide users and translators an easier understanding of our content.
+Jamulus is used around the world and translated in many languages. Use plain english to provide users and translators an easier understanding of our content.
 
 ### Give solutions first.
  {:.no_toc}
