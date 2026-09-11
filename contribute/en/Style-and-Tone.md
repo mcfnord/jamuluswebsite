@@ -86,9 +86,9 @@ Refer to UI labels in inverted commas (e.g. 'click on the "Mute" button')
 
 Jamulus is "Free and Open Source (FOSS)" (not "free software" or "open source")
 
-"Channel" The audio signal as part of a mix. "Mute a channel", "Maximum number of channels", "Group channels together" (not "Mute a person" because one person might be using multiple channels).
+"Channel" The audio signal as part of a mix. "Mute a channel", "Maximum number of channels" (not "Mute a person" because one person might be using multiple channels).
 
-"Fader" The UI that controls a channel. "Each fader has a "Mute" button", "The person’s fader" ,"Group faders together" (not "The person’s channel" or "Mute a Fader", not "Slider" or "Volume control")
+"Fader" The UI that controls a channel. "Each fader has a "Mute" button", "The person’s fader", "Group faders together" (not "The person’s channel" or "Mute a Fader", not "Slider" or "Volume control"). Grouping is a fader feature: moving one fader moves the others in its group, and each one sets its own channel’s gain.
 
 "Person" A human connected to a server (may be on multiple channels). We might say "a person on the server", or "the people who have muted themselves", rather than _musicians_ or _Channels_.
 
