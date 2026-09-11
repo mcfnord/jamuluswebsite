@@ -2,7 +2,7 @@
 
 Content repo for jamulus.app. English is the source of truth: edits land in English first, then flow to other languages via Weblate/po4a.
 
-Read first: [README.md](README.md) (workflow, translation, branches) and the [Style and Tone guide](https://jamulus.io/contribute/Style-and-Tone) (voice, terminology, spelling). The guide governs; this file does not restate or override it.
+Read first: [README.md](README.md) (workflow, translation, branches) and the [Style and Tone guide](https://jamulus.app/contribute/Style-and-Tone) (voice, terminology, spelling). The guide governs; this file does not restate or override it.
 
 ## Changes
 
